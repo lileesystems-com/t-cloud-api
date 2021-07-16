@@ -1,0 +1,9 @@
+{
+  "api": "/vehicle_info/device/status",
+  "scope": [
+    "device.status.get"
+  ],
+  "domain": "xxxx",
+  "username": "yyyy",
+  "secret": "zzzz"
+}
