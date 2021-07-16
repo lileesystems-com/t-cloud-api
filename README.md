@@ -1,1 +1,1 @@
-# Reference implemetations to access Lilee T-Cloud API
+# Reference implemetations of using Lilee T-Cloud API
